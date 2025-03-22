@@ -24,7 +24,7 @@ const Main = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Check It Out
+              Open Source
               <span>
                 <FaGithub className="fa-solid" />
               </span>
