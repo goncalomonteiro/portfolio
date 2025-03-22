@@ -7,9 +7,11 @@
 background: var(--ztc-bg-bg-1);
 @media #{$xs} {
     overflow-x: hidden !important;
+    overflow-y: hidden;
 }
 @media #{$md} {
     overflow-x: hidden !important;
+    overflow-y: hidden;
 }
 }
 
