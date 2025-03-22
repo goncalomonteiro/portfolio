@@ -12,7 +12,7 @@ import Skill10 from '@/assets/img/icons/vitest.svg'
 import Skill11 from '@/assets/img/icons/jest.svg'
 import Skill12 from '@/assets/img/icons/tailwind.svg'
 import Skill13 from '@/assets/img/icons/more.svg'
-import Sublogo1 from '@/assets/img/icons/sublogo1.svg'
+import Sublogo1 from '@/assets/img/logo/logo1_49.png'
 import Aos from 'aos'
 import Image from 'next/image'
 import { useEffect } from 'react'
@@ -37,7 +37,7 @@ const Skills = () => {
               <Col gl={12}>
                 <div className="skill-header heading1">
                   <h5 data-aos="fade-left" data-aos-duration={800}>
-                    <Image src={Sublogo1} alt="" />
+                    <Image src={Sublogo1} alt="" height={25} width={35}/>
                     Tech Stack
                   </h5>
                 </div>

@@ -3,7 +3,7 @@ import Portfolio1 from '@/assets/img/all-images/portfolio/portfolio-img1.png'
 import Portfolio2 from '@/assets/img/all-images/portfolio/portfolio-img2.png'
 import Portfolio3 from '@/assets/img/all-images/portfolio/portfolio-img3.png'
 import Portfolio4 from '@/assets/img/all-images/portfolio/portfolio-img4.png'
-import Sublogo1 from '@/assets/img/icons/sublogo1.svg'
+import Sublogo1 from '@/assets/img/logo/logo1_49.png'
 import Aos from 'aos'
 import Image from 'next/image'
 import Link from 'next/link'
@@ -30,7 +30,7 @@ const Portfolio = () => {
               <Col lg={12}>
                 <div className="portfolio-header heading1">
                   <h5 data-aos="fade-left" data-aos-duration={800}>
-                    <Image src={Sublogo1} alt="" />
+                  <Image src={Sublogo1} alt="" height={25} width={35}/>
                     Portfolio
                   </h5>
                   <div className="space16" />

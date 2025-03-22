@@ -6,7 +6,7 @@ import "@/assets/scss/main.scss";
 import type { Metadata } from "next";
 import AppProviders from "@/components/wrappers/AppProviders";
 
-import favicon from "@/assets/img/logo/fav-32-2.png";
+import favicon from '@/assets/img/logo/fav-32-2.png';
 
 export const metadata: Metadata = {
   title: "Gonçalo Oliveira Resume Portfolio",

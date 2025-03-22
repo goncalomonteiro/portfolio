@@ -1,5 +1,5 @@
 'use client'
-import Sublogo1 from '@/assets/img/icons/sublogo1.svg'
+import Sublogo1 from '@/assets/img/logo/logo1_49.png'
 import responsive from '@/assets/img/icons/responsive.png'
 import interactive from '@/assets/img/icons/interactive.png'
 import quality from '@/assets/img/icons/quality-assurance.png'
@@ -26,7 +26,7 @@ const About = () => {
         <div className="about-section-area">
           <div className="heading1">
             <h5 data-aos="fade-left" data-aos-duration={800}>
-              <Image src={Sublogo1} alt="" />
+              <Image src={Sublogo1} alt="" height={25} width={35}/>
               Expertise
             </h5>
             <div className="space24" />
