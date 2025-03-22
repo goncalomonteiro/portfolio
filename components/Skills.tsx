@@ -38,7 +38,7 @@ const Skills = () => {
                 <div className="skill-header heading1">
                   <h5 data-aos="fade-left" data-aos-duration={800}>
                     <Image src={Sublogo1} alt="" />
-                    Skill Set
+                    Tech Stack
                   </h5>
                 </div>
                 <div className="space20" />
