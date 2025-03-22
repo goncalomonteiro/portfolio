@@ -1,0 +1,16 @@
+@use '../../utils/' as * ;
+
+/*============= HEADER CSS AREA ENDS ===============*/
+
+// HOMEPAGE1 HEADER STARTS //
+.body1 {
+background: var(--ztc-bg-bg-1);
+@media #{$xs} {
+    overflow-x: hidden !important;
+}
+@media #{$md} {
+    overflow-x: hidden !important;
+}
+}
+
+/*============= HEADER CSS AREA ENDS ===============*/
