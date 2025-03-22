@@ -9,7 +9,7 @@ const IconVertical = () => {
   return (
     <>
       <div id="list-example" className="list-group">
-        <div className="btn-area d-lg-flex">
+        <div>
           <ThemeToggle />
         </div>
         <a className="list-group-item list-group-item-action" href="#list-item-1">
