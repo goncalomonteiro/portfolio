@@ -6,7 +6,8 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "deploy": "npm run build && (if exist docs rmdir /S /Q docs) && move out docs && echo true > docs/.nojekyll && git add docs && git commit -m \"Deploy static site\" && git push origin main"
   },
   "dependencies": {
     "aos": "^2.3.4",
