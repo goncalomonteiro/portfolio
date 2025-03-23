@@ -2,7 +2,7 @@
 
 /*============= DARK MODE CSS AREA ===============*/
 .light-mode {
-    --ztc-bg-bg-1: #fff;
+    --ztc-bg-bg-1: linear-gradient(#ffffffde, #ffffffdc), url('../../img/all-images/bg/bg1.png');
     --ztc-dark-bg-bg-2:rgba(6, 29, 30, 0.10);
     --ztc-text-text-1: #0E161F;
     --ztc-text-text-2: #fff;
