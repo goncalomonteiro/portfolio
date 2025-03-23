@@ -92,7 +92,7 @@ const About = () => {
                     <Link href="">Gen AI Banking Platforms</Link>
                   </h4>
                   <div className="space16" />
-                  <p>Devoteam – Junior Frontend Developer</p>
+                  <p>Devoteam – Junior Web Developer</p>
                   <div className="space32" />
                   <Link href="">09/2023 – 05/2024</Link>
                   <div className="space16" />
@@ -100,7 +100,7 @@ const About = () => {
                     <Link href="">Energy Portal</Link>
                   </h4>
                   <div className="space16" />
-                  <p>Devoteam – Junior Frontend Developer</p>
+                  <p>Devoteam – Junior Web Developer</p>
                   <div className="space32" />
                   <Link href="">09/2022 – 08/2023</Link>
                   <div className="space16" />
@@ -108,7 +108,7 @@ const About = () => {
                     <Link href="">Retail Analytics Dashboard</Link>
                   </h4>
                   <div className="space16" />
-                  <p>Devoteam – Junior Frontend Developer</p>
+                  <p>Devoteam – Junior Web Developer</p>
                 </div>
               </Col>
               <Col lg={6} md={6}>

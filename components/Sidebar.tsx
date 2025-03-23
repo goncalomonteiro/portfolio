@@ -25,7 +25,7 @@ const SidebarPage = () => {
       <div className="space18" />
       <h3>Gonçalo Monteiro</h3>
       <div className="space16" />
-      <p>Hi, I’m Gonçalo, a dedicated Junior Frontend Developer with 2 years of hands-on experience, I deliver innovative solutions for high-profile clients in banking, energy, and retail. </p>
+      <p>Hi, I’m Gonçalo, a dedicated Junior Web Developer with 2 years of hands-on experience, I deliver innovative solutions for high-profile clients in banking, energy, and retail. </p>
       <div className="space32" />
       <ul>
         <li>
