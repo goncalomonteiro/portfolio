@@ -60,7 +60,7 @@ const Portfolio = () => {
               <Col lg={6} md={6} data-aos="fade-left" data-aos-duration={1100}>
                 <div className="portfolio-boxarea2 click-here">
                   {/* Title */}
-                  <Link href="https://vuentertain.vercel.app/home">Vuentertain - Watch Movies and Series</Link>
+                  <Link href="https://vuentertain.vercel.app/home">Vuentertain: Watch Anywhere</Link>
                   {/* Image */}
                   <div className="img1">
                     <Link href="https://vuentertain.vercel.app/home">
@@ -79,7 +79,7 @@ const Portfolio = () => {
               <Col lg={6} md={6} data-aos="fade-left" data-aos-duration={1200}>
                 <div className="portfolio-boxarea2 click-here">
                   {/* Title */}
-                  <Link href="">Leadlogic- Dashboard Design</Link>
+                  <Link href="">Leadlogic: Dashboard Design</Link>
                   {/* Image */}
                   <div className="img1">
                     <Link href="">
@@ -97,7 +97,7 @@ const Portfolio = () => {
               <div className="col-lg-12" data-aos="fade-left" data-aos-duration={1100}>
                 <div className="portfolio-boxarea click-here">
                   {/* Title */}
-                  <Link href="budgie-finance.vercel.app">Budgie - Finance Portal</Link>
+                  <Link href="budgie-finance.vercel.app">Budgie: Finance Portal</Link>
                   {/* Image */}
                   <div className="img1">
                     <Link href="budgie-finance.vercel.app">
