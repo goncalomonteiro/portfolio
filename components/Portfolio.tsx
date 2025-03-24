@@ -97,10 +97,10 @@ const Portfolio = () => {
               <div className="col-lg-12" data-aos="fade-left" data-aos-duration={1100}>
                 <div className="portfolio-boxarea click-here">
                   {/* Title */}
-                  <Link href="budgie-finance.vercel.app">Budgie: Finance Portal</Link>
+                  <Link href="https://budgie-finance.vercel.app">Budgie: Finance Portal</Link>
                   {/* Image */}
                   <div className="img1">
-                    <Link href="budgie-finance.vercel.app">
+                    <Link href="https://budgie-finance.vercel.app">
                       <Image src={Portfolio4} alt="" />
                     </Link>
                   </div>
