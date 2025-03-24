@@ -40,10 +40,10 @@ const Portfolio = () => {
               <Col lg={12} data-aos="fade-left" data-aos-duration={1000}>
                 <div className="portfolio-boxarea click-here">
                   {/* Title */}
-                  <Link href="https://jira-ffe.vercel.app/">Jira-ffe: Task Management Platform</Link>
+                  <Link href="https://jira-ffe.vercel.app/" target="_blank" rel="noopener noreferrer">Jira-ffe: Task Management Platform</Link>
                   {/* Image */}
                   <div className="img1">
-                    <Link href="https://jira-ffe.vercel.app/">
+                    <Link href="https://jira-ffe.vercel.app/" target="_blank" rel="noopener noreferrer">
                       <Image src={Portfolio1} alt="" />
                     </Link>
                   </div>
@@ -60,10 +60,10 @@ const Portfolio = () => {
               <Col lg={6} md={6} data-aos="fade-left" data-aos-duration={1100}>
                 <div className="portfolio-boxarea2 click-here">
                   {/* Title */}
-                  <Link href="https://vuentertain.vercel.app/home">Vuentertain: Watch Anywhere</Link>
+                  <Link href="https://vuentertain.vercel.app/home" target="_blank" rel="noopener noreferrer">Vuentertain: Watch Anywhere</Link>
                   {/* Image */}
                   <div className="img1">
-                    <Link href="https://vuentertain.vercel.app/home">
+                    <Link href="https://vuentertain.vercel.app/home" target="_blank" rel="noopener noreferrer">
                       <Image src={Portfolio2} alt="" />
                     </Link>
                   </div>
@@ -79,10 +79,10 @@ const Portfolio = () => {
               <Col lg={6} md={6} data-aos="fade-left" data-aos-duration={1200}>
                 <div className="portfolio-boxarea2 click-here">
                   {/* Title */}
-                  <Link href="">Leadlogic: Dashboard Design</Link>
+                  <Link href="" target="_blank" rel="noopener noreferrer">Leadlogic: Dashboard Design</Link>
                   {/* Image */}
                   <div className="img1">
-                    <Link href="">
+                    <Link href="" target="_blank" rel="noopener noreferrer">
                       <Image src={Portfolio3} alt="" />
                     </Link>
                   </div>
@@ -97,10 +97,10 @@ const Portfolio = () => {
               <div className="col-lg-12" data-aos="fade-left" data-aos-duration={1100}>
                 <div className="portfolio-boxarea click-here">
                   {/* Title */}
-                  <Link href="https://budgie-finance.vercel.app">Budgie: Finance Portal</Link>
+                  <Link href="https://budgie-finance.vercel.app" target="_blank" rel="noopener noreferrer">Budgie: Finance Portal</Link>
                   {/* Image */}
                   <div className="img1">
-                    <Link href="https://budgie-finance.vercel.app">
+                    <Link href="https://budgie-finance.vercel.app" target="_blank" rel="noopener noreferrer">
                       <Image src={Portfolio4} alt="" />
                     </Link>
                   </div>
