@@ -43,7 +43,7 @@ const Portfolio = () => {
                   <Link href="https://jira-ffe.vercel.app/">Jira-ffe: Task Management Platform</Link>
                   {/* Image */}
                   <div className="img1">
-                    <Link href="">
+                    <Link href="https://jira-ffe.vercel.app/">
                       <Image src={Portfolio1} alt="" />
                     </Link>
                   </div>
