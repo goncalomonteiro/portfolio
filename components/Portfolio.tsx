@@ -40,7 +40,7 @@ const Portfolio = () => {
               <Col lg={12} data-aos="fade-left" data-aos-duration={1000}>
                 <div className="portfolio-boxarea click-here">
                   {/* Title */}
-                  <Link href="">Reelup - E commercer Video Platform</Link>
+                  <Link href="https://jira-ffe.vercel.app/">Jira-ffe: Task Management Platform</Link>
                   {/* Image */}
                   <div className="img1">
                     <Link href="">
@@ -49,9 +49,11 @@ const Portfolio = () => {
                   </div>
                   {/* Skills Tags */}
                   <div className="portfolio-skills">
+                    <span className="skill-tag">Typescript</span>
                     <span className="skill-tag">React</span>
                     <span className="skill-tag">Next.js</span>
-                    <span className="skill-tag">E-commerce</span>
+                    <span className="skill-tag">Tailwind</span>
+                    <span className="skill-tag">Zustand</span>
                   </div>
                 </div>
               </Col>
