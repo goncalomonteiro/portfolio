@@ -60,18 +60,19 @@ const Portfolio = () => {
               <Col lg={6} md={6} data-aos="fade-left" data-aos-duration={1100}>
                 <div className="portfolio-boxarea2 click-here">
                   {/* Title */}
-                  <Link href="">Academy - Sales Career</Link>
+                  <Link href="https://vuentertain.vercel.app/home">Vuentertain - Watch Movies and Series</Link>
                   {/* Image */}
                   <div className="img1">
-                    <Link href="">
-                      <Image src={Portfolio3} alt="" />
+                    <Link href="https://vuentertain.vercel.app/home">
+                      <Image src={Portfolio2} alt="" />
                     </Link>
                   </div>
                   {/* Skills Tags */}
                   <div className="portfolio-skills">
-                    <span className="skill-tag">React</span>
-                    <span className="skill-tag">Bootstrap</span>
-                    <span className="skill-tag">AOS</span>
+                    <span className="skill-tag">Javascript</span>
+                    <span className="skill-tag">Vue</span>
+                    <span className="skill-tag">Vuex</span>
+                    <span className="skill-tag">Tailwind</span>
                   </div>
                 </div>
               </Col>
@@ -82,7 +83,7 @@ const Portfolio = () => {
                   {/* Image */}
                   <div className="img1">
                     <Link href="">
-                      <Image src={Portfolio4} alt="" />
+                      <Image src={Portfolio3} alt="" />
                     </Link>
                   </div>
                   {/* Skills Tags */}
@@ -96,18 +97,18 @@ const Portfolio = () => {
               <div className="col-lg-12" data-aos="fade-left" data-aos-duration={1100}>
                 <div className="portfolio-boxarea click-here">
                   {/* Title */}
-                  <Link href="">Reelup - E commercer Video Platform</Link>
+                  <Link href="budgie-finance.vercel.app">Budgie - Finance Portal</Link>
                   {/* Image */}
                   <div className="img1">
-                    <Link href="">
-                      <Image src={Portfolio2} alt="" />
+                    <Link href="budgie-finance.vercel.app">
+                      <Image src={Portfolio4} alt="" />
                     </Link>
                   </div>
                   {/* Skills Tags */}
                   <div className="portfolio-skills">
                     <span className="skill-tag">React</span>
-                    <span className="skill-tag">Next.js</span>
-                    <span className="skill-tag">E-commerce</span>
+                    <span className="skill-tag">MUI</span>
+                    <span className="skill-tag">TypeScript</span>
                   </div>
                 </div>
               </div>
